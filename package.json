@@ -26,8 +26,8 @@
     "formidable": "^1.0.17",
     "lodash": "^4.6.1",
     "loopback-connector": "^2.3.0",
-    "pg": "^4.5.1",
-    "pg-large-object": "^1.0.1",
+    "pg": "^7.0.0",
+    "pg-large-object": "^2.0.0",
     "string_decoder": "^0.10.31"
   },
   "devDependencies": {
